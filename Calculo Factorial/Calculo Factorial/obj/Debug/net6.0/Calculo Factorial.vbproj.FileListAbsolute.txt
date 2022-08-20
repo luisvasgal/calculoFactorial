@@ -1,0 +1,15 @@
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\bin\Debug\net6.0\Calculo Factorial.exe
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\bin\Debug\net6.0\Calculo Factorial.deps.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\bin\Debug\net6.0\Calculo Factorial.runtimeconfig.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\bin\Debug\net6.0\Calculo Factorial.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\bin\Debug\net6.0\Calculo Factorial.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.vbproj.AssemblyReference.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.AssemblyInfoInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.AssemblyInfo.vb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\refint\Calculo Factorial.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\Calculo Factorial.genruntimeconfig.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\Calculo Factorial\Calculo Factorial\obj\Debug\net6.0\ref\Calculo Factorial.dll
